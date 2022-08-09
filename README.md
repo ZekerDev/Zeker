@@ -6,7 +6,7 @@
 
 
 - 🤓  I'm interested in  physics, mathematics, programming 
-- 🤓Studying OpenGL and Database
+- 🤓Studying C++ and C++ and unreal and C++
 
 
 ----
