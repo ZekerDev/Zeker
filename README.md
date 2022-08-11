@@ -19,7 +19,7 @@
 ------
 **Contact means**
 <div>
- ![Discord](https://img.shields.io/discord/1007422376948015186)
+    <a href="https://discord.gg/2Kt9HB9cCQ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     
    <div>
 
